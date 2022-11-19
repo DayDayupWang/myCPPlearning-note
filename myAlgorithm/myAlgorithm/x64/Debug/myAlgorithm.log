@@ -1,0 +1,4 @@
+﻿  myAlgorithm.cpp
+C:\Users\shinelon\Desktop\学习过程文件\C++\myAlgorithm\myAlgorithm\myAlgorithm.cpp(29,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\shinelon\Desktop\学习过程文件\C++\myAlgorithm\myAlgorithm\myAlgorithm.cpp(38,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  myAlgorithm.vcxproj -> C:\Users\shinelon\Desktop\学习过程文件\C++\Project1\x64\Debug\myAlgorithm.exe
